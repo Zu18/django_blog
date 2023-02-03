@@ -6,6 +6,15 @@
     font-family: 'Archivo', sans-serif;
 }
 
+html,
+body {
+    font-family: 'Barlow', sans-serif;
+}
+
+.fw-500{
+      font-weight: 500;
+}
+
 .test{
      font-family: 'Barlow', sans-serif;
      font-family: 'Merriweather', serif;
