@@ -15,6 +15,14 @@ body{
       font-weight: 500;
 }
 
+.fs-14 {
+      font-size: 0.875rem;
+}
+
+.fs-15 {
+      font-size: 0.9375rem;
+}
+
 .test{
      font-family: 'Barlow', sans-serif;
      font-family: 'Merriweather', serif;
