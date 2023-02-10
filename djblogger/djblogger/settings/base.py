@@ -28,7 +28,8 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'djblogger.blog',
-    'django_htmx'
+    'django_htmx',
+    'taggit',
 ]
 
 MIDDLEWARE = [
