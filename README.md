@@ -13,7 +13,6 @@ During the work on this project, I learned:
 You can find some screens of the project below:
 
 Main page:
-![Screenshot from 2023-02-15 11-33-58.png](..%2F..%2FPictures%2FScreenshots%2FScreenshot%20from%202023-02-15%2011-33-58.png)
-
+![Screenshot from 2023-02-15 11-33-58.png](Screenshots%2FScreenshot%20from%202023-02-15%2011-33-58.png)
 Article page:
-![Screenshot from 2023-02-15 11-38-49.png](..%2F..%2FPictures%2FScreenshots%2FScreenshot%20from%202023-02-15%2011-38-49.png)
+![Screenshot from 2023-02-15 11-38-49.png](Screenshots%2FScreenshot%20from%202023-02-15%2011-38-49.png)
